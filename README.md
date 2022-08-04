@@ -12,6 +12,8 @@ My mind map source of 3 courses on Machine Learning Specialization 2022 in Cours
 
 ![a](Machine_Learning_Specialization%2FMachine%20Learning%20Specialization%202022.svg)
 
+<p><img src='Machine_Learning_Specialization%2FMachine%20Learning%20Specialization%202022.svg'></p>
+
 
 
 ---
