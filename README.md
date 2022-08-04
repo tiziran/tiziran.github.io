@@ -10,6 +10,9 @@ https://www.tiziran.com
 ![[test1]]
 
 
+[Test 1 link](test1.md)
+
+
 # Farshid PirahanSiah
 
 ## Image Processing Test for C++
