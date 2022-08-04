@@ -6,8 +6,8 @@ Farshid PirahanSiah
 
 https://www.tiziran.com
 
-[[test2]]
-[[test1]]
+![[test2]]
+![[test1]]
 
 
 # Farshid PirahanSiah
