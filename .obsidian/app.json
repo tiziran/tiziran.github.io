@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": null,
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true
+}
