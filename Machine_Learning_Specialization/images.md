@@ -1,0 +1,1 @@
+SVG image of the Mind Map: ![SVG image](/Machine_Learning_Specialization/Machine%20Learning%20Specialization%202022.svg)
