@@ -31,8 +31,8 @@ www.tiziran.com
 * vectorization (NN implemented efficiently)
 * matrix multiplication rules & code
 
-
 ### Week 2
+
 * TensorFlow implementation #code
 * Training Details #code
 	* model training steps
@@ -66,11 +66,10 @@ www.tiziran.com
 * Additional Layer Types
 	* Convolutional Layer
 		* Faster computation
-		* need less training data (less prone to over-fitting)
-* 
+		* need less training data (less prone to over-fitting) 
 
 ### Week 3
+
 * Evaluating a model
 	* splitting training/test dataset to systematically evaluate 
 * Model selection and training/cross validation/test sets
-	* 

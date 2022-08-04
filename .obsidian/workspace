@@ -6,23 +6,13 @@
       {
         "id": "73d43696a1e7598f",
         "type": "leaf",
-        "dimension": 10.75268817204301,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "dfaf2b163204071a",
-        "type": "leaf",
-        "dimension": 89.24731182795699,
-        "state": {
-          "type": "mindmap",
-          "state": {}
         }
       }
     ],
@@ -71,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3333d6faa9e09c90",
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_Specialization/Machine Learning Specialization 2022.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,8 +146,8 @@
   },
   "active": "73d43696a1e7598f",
   "lastOpenFiles": [
-    "README.md",
     "Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
+    "README.md",
     "note.md",
     "test1.md",
     "test2.md",
