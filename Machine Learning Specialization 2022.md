@@ -70,6 +70,10 @@ www.tiziran.com
 * 
 
 ### Week 3
-* a
+* Evaluating a model
+	* splitting training/test dataset to systematically evaluate 
+* Model selection and training/cross validation/test sets
+	* 
+	 
 * b
 * 

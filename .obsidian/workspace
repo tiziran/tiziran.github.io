@@ -10,17 +10,9 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
-        }
-      },
-      {
-        "id": "6b2607f4cc0c6131",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -48,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Machine_Learning_Specialization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +96,7 @@
               "state": {
                 "file": "README.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -145,24 +137,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "73d43696a1e7598f",
+  "active": "9db13bd09b2ae9d8",
   "lastOpenFiles": [
-    "test1.md",
-    "README.md",
     "Machine Learning Specialization 2022.md",
+    "README.md",
+    "note.md",
+    "test1.md",
     "test2.md",
     "Personal Management.md",
     "Boostnote Markdown CheatSheet - Preview!.md",
     "Markdown Cheat Sheet.md",
     "Pasted image 20220802121945.png",
-    "Pasted image 20220802121853.png",
-    "Pasted image 20220802121949.png"
+    "Pasted image 20220802121853.png"
   ]
 }
