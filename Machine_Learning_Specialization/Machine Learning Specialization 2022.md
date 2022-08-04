@@ -74,6 +74,3 @@ www.tiziran.com
 	* splitting training/test dataset to systematically evaluate 
 * Model selection and training/cross validation/test sets
 	* 
-	 
-* b
-* 

@@ -6,13 +6,23 @@
       {
         "id": "73d43696a1e7598f",
         "type": "leaf",
+        "dimension": 10.75268817204301,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
+            "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "dfaf2b163204071a",
+        "type": "leaf",
+        "dimension": 89.24731182795699,
+        "state": {
+          "type": "mindmap",
+          "state": {}
         }
       }
     ],
@@ -61,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3333d6faa9e09c90",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Machine_Learning_Specialization/Machine Learning Specialization 2022.md"
               }
             }
           },
@@ -144,10 +155,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9db13bd09b2ae9d8",
+  "active": "73d43696a1e7598f",
   "lastOpenFiles": [
-    "Machine Learning Specialization 2022.md",
     "README.md",
+    "Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
     "note.md",
     "test1.md",
     "test2.md",
