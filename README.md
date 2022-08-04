@@ -12,6 +12,9 @@ My mind map source of 3 courses on Machine Learning Specialization 2022 in Cours
 
 ![asadfsa](https://raw.githubusercontent.com/tiziran/tiziran.github.io/main/Machine_Learning_Specialization/Machine%20Learning%20Specialization%202022.svg)
 
+
+asdfasdfsdfafas
+
 <p><img src='https://raw.githubusercontent.com/tiziran/tiziran.github.io/main/Machine_Learning_Specialization/Machine%20Learning%20Specialization%202022.svg'></p>
 
 a
