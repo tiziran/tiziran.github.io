@@ -4,12 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "aef072fb51d937a4",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "9a3bc18dd1321f01",
+        "type": "split",
+        "children": [
+          {
+            "id": "902bd29378163b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed02d732935fa62d",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -23,20 +42,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9db13bd09b2ae9d8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "39ec92ee7682fb28",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "g-",
+                "query": "tag:#i/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,12 +63,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "fa45dee3ad69733e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5
   },
   "right": {
     "id": "3333d6faa9e09c90",
@@ -73,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,15 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "5215da68fa8794ea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -130,23 +146,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 745.5
+    "width": 298.5
   },
-  "active": "9db13bd09b2ae9d8",
+  "active": "fa45dee3ad69733e",
   "lastOpenFiles": [
-    "template/template_note.md",
-    "Germany/angelalingooo.md",
-    "Personal Knowledge Management/Note_taking.md",
-    "000_Indexing/020_index_PKM.md",
-    "000_Indexing/010_Guide.md",
-    "Germany/011_MOC Germany.md",
-    "template/SDFSDAF.md",
-    "template/test.md",
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
     "README.md",
-    "Personal Knowledge Management/CODE.md"
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FFSDL.md",
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FFSDLmd.md",
+    "000_Indexing/010_Guide.md",
+    "Development_Management_Growth/template/template_note.md",
+    "Development_Management_Growth/Notes/note.md",
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
+    "Mind_Map/Machine_Learning_Specialization/images.md",
+    "Personal_Development/Untitled.md"
   ]
 }

@@ -13,6 +13,7 @@ Personal Knowledge Management (PKM)
 %% 
 Quotes, ideas, highlights, thoughts
 %%
+
 ## List of notes
 ```dataview
 TABLE file.mtime AS "Last Modified", tags
