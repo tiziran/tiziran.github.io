@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "73d43696a1e7598f",
+        "id": "cf01d8e39ce7e32e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Machine_Learning_Specialization",
+                "query": "tag:#Personal_Knowledge_Management",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "73d43696a1e7598f",
+  "active": "cf01d8e39ce7e32e",
   "lastOpenFiles": [
     "📚Indexing/🧾Guide.md",
     "README.md",
+    "📚Indexing%2F🧾Guide.md",
+    "Personal Knowledge Management/📚Indexing%2F🧾Guide.md",
     "📚Indexing/0000_index_PKM.md",
     "Personal Knowledge Management/Zettelkasten.md",
     "Personal Knowledge Management/PARA.md",
     "Personal Knowledge Management/CODE.md",
     "Personal Knowledge Management/Productive.md",
-    "Personal Knowledge Management/Note_taking.md",
-    "Personal Knowledge Management/PKM.md",
-    "Germany/📚MOC Germany.md"
+    "Personal Knowledge Management/Note_taking.md"
   ]
 }
