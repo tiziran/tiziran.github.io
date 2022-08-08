@@ -26,6 +26,12 @@ GA: G-SFK3F1H705
 	- Lab 02b: Training a CNN on Synthetic Handwriting Data
 	- Lab 03: Transformers and Paragraphs            
 
+# Lecture 02
+- a
+- 
+
+
+
 ![[a.png]]
 
 

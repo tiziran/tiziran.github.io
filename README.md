@@ -10,9 +10,8 @@ Update August 2022 by Farshid PirahanSiah
 # Full Stack Deep Learning Course 2022
 My notes source of Full_Stack_Deep_Learning_Course_2022
 
-Notes: [Full_Stack_Deep_Learning_Course_2022](/Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md)
- Images: [Download images](/Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md)
-
+- Notes: [Full_Stack_Deep_Learning_Course_2022](/Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md)
+- Images: [Download images](/Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md)
 
 ---
 My mind map source of 3 courses on Machine Learning Specialization 2022 in Coursera
