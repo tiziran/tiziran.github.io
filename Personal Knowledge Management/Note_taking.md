@@ -3,7 +3,7 @@ date: 2022-08-08
 Tags: i/pkm, note taking, note_taking,Personal Knowledge Management, PKM, study, learn,
 why: management 
 ---
-top: [[0000_index_PKM]]
+top: [[020_index_PKM]]
 
 
 Personal Knowledge Management (PKM)

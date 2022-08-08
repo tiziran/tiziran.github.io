@@ -5,6 +5,7 @@ project: Farshid
 why: main index file
 site: https://www.tiziran.com 
 ---
+top: [[010_Guide]]
 
 List of all folders 
 ```dataview

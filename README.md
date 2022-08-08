@@ -15,9 +15,9 @@ My mind map source of 3 courses on Machine Learning Specialization 2022 in Cours
 ---
 #Personal_Knowledge_Management
 
-[[🧾Guide]]
+[[010_Guide]]
 
-Index: [index](/%F0%9F%93%9AIndexing/%F0%9F%A7%BEGuide.md)
+Index: [index](010_Guide.md)
 
 ---
 [note](note.md)

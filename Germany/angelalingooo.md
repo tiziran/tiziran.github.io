@@ -4,7 +4,7 @@ Tags: i/germany, mindMap, mind_map, Germany, instagram, angelalingooo
 why: study
 total: 200 words
 ---
-Top: [[📚MOC Germany]]
+Top: [[011_MOC Germany]]
 
 
 # Lesson 1 & 2

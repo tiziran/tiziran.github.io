@@ -1,22 +1,24 @@
 ---
 date: 2022-08-08 
-Tags: index, Personal Knowledge Management, PKM, study, learn,
-why: index, indexing, list 
+Tags: Germany, Deutsche, study, learn, language 
+why: study germany   
 ---
+index: [[010_Guide]]
+Top: [[011_MOC Germany]]
 
 
-
-Personal Knowledge Management (PKM)
 
 
 # Fleeting Notes
 %% 
 Quotes, ideas, highlights, thoughts
 %%
+
+
 ## List of notes
 ```dataview
 TABLE file.mtime AS "Last Modified", tags
-From #i/pkm 
+From #i/germany 
 sort file.mtime DESC
 ```
 
@@ -48,12 +50,7 @@ link notes bi-directionally
 
 
 
-# indicator 
-010 Guide
-020 Home
-030 List of indexes
-040 How to use
-050 
+
 
 
 
