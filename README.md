@@ -18,6 +18,6 @@ My mind map source of 3 courses on Machine Learning Specialization 2022 in Cours
 
 ---
 
-
+[[🧾Guide]]
 ---
 [note](note.md)
