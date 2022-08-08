@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,6 +154,8 @@
   },
   "active": "902bd29378163b53",
   "lastOpenFiles": [
+    "Mind_Map/Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
     "README.md",
     "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
     "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FFSDL.md",
@@ -161,8 +163,6 @@
     "000_Indexing/010_Guide.md",
     "Development_Management_Growth/template/template_note.md",
     "Development_Management_Growth/Notes/note.md",
-    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
-    "Mind_Map/Machine_Learning_Specialization/images.md",
-    "Personal_Development/Untitled.md"
+    "Mind_Map/Machine_Learning_Specialization/images.md"
   ]
 }
