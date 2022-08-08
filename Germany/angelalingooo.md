@@ -3,6 +3,7 @@ date: 2022-08-08
 Tags: i/germany, mindMap, mind_map, Germany, instagram, angelalingooo
 why: study
 total: 200 words
+GA: G-SFK3F1H705
 ---
 Top: [[011_MOC Germany]]
 
