@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Germany/011_MOC Germany.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Germany/011_MOC Germany.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Germany/011_MOC Germany.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Germany/011_MOC Germany.md"
+                "file": "README.md"
               }
             }
           },
@@ -145,6 +145,7 @@
   },
   "active": "cf01d8e39ce7e32e",
   "lastOpenFiles": [
+    "Germany/011_MOC Germany.md",
     "000_Indexing/020_index_PKM.md",
     "000_Indexing/010_Guide.md",
     "README.md",
@@ -153,7 +154,6 @@
     "Germany/angelalingooo.md",
     "📚Indexing%2F🧾Guide.md",
     "Personal Knowledge Management/📚Indexing%2F🧾Guide.md",
-    "Personal Knowledge Management/Zettelkasten.md",
-    "Personal Knowledge Management/PARA.md"
+    "Personal Knowledge Management/Zettelkasten.md"
   ]
 }
