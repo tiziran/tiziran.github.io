@@ -2,6 +2,7 @@
 
 Update August 2022 by Farshid PirahanSiah  
 #Machine_Learning_Specialization #tiziran #FarshidPirahanSiah 
+#Personal_Knowledge_Management
 
 ---
 
@@ -19,5 +20,7 @@ My mind map source of 3 courses on Machine Learning Specialization 2022 in Cours
 ---
 
 [[🧾Guide]]
+
+
 ---
 [note](note.md)
