@@ -1,0 +1,43 @@
+{
+  "calendarSources": [
+    {
+      "type": "caldav",
+      "color": "#1BADF8",
+      "url": "https://caldav.icloud.com",
+      "username": "pirahansiah@gmail.com",
+      "password": "vyxx-acik-cjgq-novd",
+      "name": "Calendar",
+      "homeUrl": "https://caldav.icloud.com/1115804432/calendars/CC9125EB-6C27-4E4F-94B5-956A84FC52C6/"
+    },
+    {
+      "type": "caldav",
+      "color": "#F6682F",
+      "url": "https://caldav.icloud.com",
+      "username": "pirahansiah@gmail.com",
+      "password": "vyxx-acik-cjgq-novd",
+      "name": "Eventbrite",
+      "homeUrl": "https://caldav.icloud.com/1115804432/calendars/EC5D8D13-B8C7-40A4-976D-CC6B4711C30A/"
+    },
+    {
+      "type": "caldav",
+      "color": "#34AADC",
+      "url": "https://caldav.icloud.com",
+      "username": "pirahansiah@gmail.com",
+      "password": "vyxx-acik-cjgq-novd",
+      "name": "Home",
+      "homeUrl": "https://caldav.icloud.com/1115804432/calendars/home/"
+    },
+    {
+      "type": "caldav",
+      "color": "#CC73E1",
+      "url": "https://caldav.icloud.com",
+      "username": "pirahansiah@gmail.com",
+      "password": "vyxx-acik-cjgq-novd",
+      "name": "Work",
+      "homeUrl": "https://caldav.icloud.com/1115804432/calendars/work/"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 1
+}

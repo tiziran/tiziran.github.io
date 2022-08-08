@@ -11,5 +11,18 @@
   "templater-obsidian",
   "obsidian-enhancing-export",
   "copy-as-html",
-  "obsidian-html-tags-autocomplete"
+  "obsidian-html-tags-autocomplete",
+  "obsidian-autocomplete-plugin",
+  "auto-moc",
+  "obsidian-code-block-enhancer",
+  "obsidian-excel-to-markdown-table",
+  "execute-code",
+  "obsidian-full-calendar",
+  "obsidian-icon-folder",
+  "meld-calc",
+  "multi-column-markdown",
+  "obsidian-tabs",
+  "obsidian-rtl",
+  "sliding-panes-obsidian",
+  "obsidian-plugin-toc"
 ]
