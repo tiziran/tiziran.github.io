@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a3bc18dd1321f01",
-        "type": "split",
-        "children": [
-          {
-            "id": "902bd29378163b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed02d732935fa62d",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "902bd29378163b53",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Development_Management_Growth/Personal_Development/Personal_Development_Plan.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 175.5
   },
   "right": {
     "id": "3333d6faa9e09c90",
@@ -93,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Development_Management_Growth/Personal_Development/Personal_Development_Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Development_Management_Growth/Personal_Development/Personal_Development_Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Development_Management_Growth/Personal_Development/Personal_Development_Plan.md"
               }
             }
           },
@@ -150,14 +135,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "active": "902bd29378163b53",
   "lastOpenFiles": [
+    "README.md",
     "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
     "Mind_Map/Machine_Learning_Specialization/images.md",
     "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
-    "README.md",
     "Mind_Map/Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
     "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FFSDL.md",
     "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FFSDLmd.md",
