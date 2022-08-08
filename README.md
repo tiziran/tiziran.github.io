@@ -19,7 +19,7 @@ My mind map source of 3 courses on Machine Learning Specialization 2022 in Cours
 
 [[010_Guide]]
 
-Index: [index](010_Guide.md)
+Index: [index](/000_Indexing/010_Guide.md)
 
 ---
 [note](note.md)
