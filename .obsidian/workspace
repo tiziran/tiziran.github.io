@@ -1,53 +1,46 @@
 {
   "main": {
-    "id": "70536ac8e0fc98e2",
+    "id": "5f4ee4f7fcbb99e0",
     "type": "split",
     "children": [
       {
-        "id": "9a3bc18dd1321f01",
-        "type": "split",
-        "children": [
-          {
-            "id": "902bd29378163b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed02d732935fa62d",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "8352e0c65f27c114",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "683d4a08a86adcba",
+    "id": "e8bdae1de6d1dbfe",
     "type": "split",
     "children": [
       {
-        "id": "2fef948309414f68",
+        "id": "8f02d0008017cba3",
         "type": "tabs",
         "children": [
           {
-            "id": "39ec92ee7682fb28",
+            "id": "3fee3b302ee8a900",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "af966a70997c754b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#i/",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,38 +50,37 @@
             }
           },
           {
-            "id": "34b56f37811e234e",
+            "id": "2f52393841e922a7",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "fa45dee3ad69733e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 300
   },
   "right": {
-    "id": "3333d6faa9e09c90",
+    "id": "6ed7541e31c8d9b9",
     "type": "split",
     "children": [
       {
-        "id": "328abb65c9858ce5",
+        "id": "a7c3bbb694903007",
         "type": "tabs",
         "children": [
           {
-            "id": "971843cb09fcf103",
+            "id": "bacd0bc8aa182c7a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "93590157aeeb6458",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -100,24 +92,24 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "da97578741356e11",
+            "id": "cb74f5875641b287",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c81ec9efd8d9829e",
+            "id": "e56dc8cd6d11b682",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +120,7 @@
             }
           },
           {
-            "id": "052a74e16ed4fbbb",
+            "id": "c46989b2e6e10668",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -136,33 +128,16 @@
                 "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md"
               }
             }
-          },
-          {
-            "id": "035097358f1bb2a9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "902bd29378163b53",
+  "active": "8352e0c65f27c114",
   "lastOpenFiles": [
-    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
-    "README.md",
-    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
-    "Mind_Map/Machine_Learning_Specialization/images.md",
-    "Mind_Map/Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
-    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FFSDL.md",
-    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FFSDLmd.md",
-    "000_Indexing/010_Guide.md",
-    "Development_Management_Growth/template/template_note.md",
-    "Development_Management_Growth/Notes/note.md"
+    "README.md"
   ]
 }

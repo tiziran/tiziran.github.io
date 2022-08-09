@@ -10,3 +10,19 @@ site: https://www.tiziran.com
 project: Tiziran, Farshid
 GA: G-SFK3F1H705
 ---
+top [[010_Guide]]
+
+1. set your main goals
+	1. a
+	2. b
+	3. c
+2. identify your current strengths
+3. decide on your key areas for development
+4. research the skills you'll need to achieve your goals
+5. start taking action
+6. give yourself a clear timeframe for each goal
+7. track your progression 
+	1. what i've achieved so far
+	2. roadblocks i've faced
+	3. what i need to improve
+	4. 
