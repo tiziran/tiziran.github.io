@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md"
               }
             }
           },
@@ -154,10 +154,10 @@
   },
   "active": "902bd29378163b53",
   "lastOpenFiles": [
-    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
-    "Mind_Map/Machine_Learning_Specialization/images.md",
     "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
     "README.md",
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
+    "Mind_Map/Machine_Learning_Specialization/images.md",
     "Mind_Map/Machine_Learning_Specialization/Machine Learning Specialization 2022.md",
     "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FFSDL.md",
     "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FFSDLmd.md",
