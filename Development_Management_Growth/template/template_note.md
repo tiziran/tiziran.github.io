@@ -1,19 +1,11 @@
 ---
-created: 2022-08-10T21:04:48+02:00
-updated: 2022-08-10T21:04:48+02:00
+created: 2022-08-10T21:30:52+02:00
+updated: 2022-08-10T22:31:31+02:00
+tags: i/ 
+GA: G-SFK3F1H705
+main: [[010_Guide]]
+link: 
 ---
 
----
-creation date: <% tp.file.creation_date() %>
-tags: i/ , notes, tiziran, Farshid, Farshid_Pirahansiah, farshidPirahansiah, mindMap
-source: 
-Status:
-title:
-type:
-description: 
-site: https://www.tiziran.com 
-project: Tiziran, Farshid
-GA: G-SFK3F1H705
----
-top: [[010_Guide]]
+
 

@@ -1,5 +1,6 @@
 ---
-date: 2022-08-07
+updated: 2022-08-10T22:38:55+02:00
+created: 2022-08-10T22:32:18+02:00
 Tags: index, RandD, tagsin
 project: Farshid
 why: main index file
