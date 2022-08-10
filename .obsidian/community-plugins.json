@@ -21,8 +21,9 @@
   "obsidian-icon-folder",
   "meld-calc",
   "multi-column-markdown",
-  "obsidian-tabs",
   "obsidian-rtl",
   "sliding-panes-obsidian",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-reading-time",
+  "update-time-on-edit"
 ]

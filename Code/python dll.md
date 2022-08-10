@@ -1,0 +1,18 @@
+---
+creation date: 2022-08-10 14:57
+tags: i/python
+status: need to complete and test 
+GA: G-SFK3F1H705
+---
+top: [[010_Guide]]
+top: [[020 MOC code]]
+
+```py
+import ctypes
+my_dll = r"C:\fffffff.dll"
+lib = ctypes.windll.LoadLibrary(my_dll)
+```
+
+
+- [ ] to-do: to complete and test ; python; dll
+- [ ] 

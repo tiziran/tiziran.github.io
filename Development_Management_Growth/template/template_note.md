@@ -1,4 +1,9 @@
 ---
+created: 2022-08-10T21:04:48+02:00
+updated: 2022-08-10T21:04:48+02:00
+---
+
+---
 creation date: <% tp.file.creation_date() %>
 tags: i/ , notes, tiziran, Farshid, Farshid_Pirahansiah, farshidPirahansiah, mindMap
 source: 
