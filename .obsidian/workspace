@@ -4,30 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "24efbdd234827e3d",
+        "id": "a45ea6c549bee76e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Code/python dll.md",
+            "file": "Mind_Map/Optimization/Optimization ML solutions.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "e24943871280c029"
+        }
       },
       {
-        "id": "b3df5cdbd69b708e",
+        "id": "ecfcbf112e8e00d5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Code/python dll.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "e24943871280c029"
+          "type": "mindmap",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -40,14 +34,6 @@
         "id": "8f02d0008017cba3",
         "type": "tabs",
         "children": [
-          {
-            "id": "3fee3b302ee8a900",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
           {
             "id": "af966a70997c754b",
             "type": "leaf",
@@ -70,8 +56,29 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7e13040052ad1221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mind_Map/Optimization/Optimization ML solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72de6bbf51c97d6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -99,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/python dll.md",
+                "file": "Mind_Map/Optimization/Optimization ML solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/python dll.md",
+                "file": "Mind_Map/Optimization/Optimization ML solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,28 +146,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/python dll.md"
+                "file": "Mind_Map/Optimization/Optimization ML solutions.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "24efbdd234827e3d",
+  "active": "a45ea6c549bee76e",
   "lastOpenFiles": [
-    "Code/convert strel-getStructuringElement structuring element.md",
-    "Code/convert.md",
+    "Code/tools.md",
+    "Mind_Map/Optimization/Optimization ML solutions.md",
     "Code/add path.md",
-    "000_Indexing/020_index_PKM.md",
-    "000_Indexing/020 MOC code.md",
-    "000_Indexing/010_Guide.md",
-    "Code/python dll.md",
     "Development_Management_Growth/template/template_note.md",
-    "Code/farshid.md",
-    "Code/asdfasdf.md"
+    "Development_Management_Growth/Personal Knowledge Management/Note_taking.md",
+    "Development_Management_Growth/Personal Knowledge Management/CODE.md",
+    "Development_Management_Growth/Notes/note.md",
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
+    "Code/python dll.md",
+    "Code/convert strel-getStructuringElement structuring element.md"
   ]
 }

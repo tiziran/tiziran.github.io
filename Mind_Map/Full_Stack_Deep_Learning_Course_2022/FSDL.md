@@ -9,11 +9,12 @@ description: Full Stack Deep Learning - Course 2022
 site: https://www.tiziran.com 
 project: Tiziran, Farshid
 GA: G-SFK3F1H705
+created: 2022-08-11T11:58:16+02:00
+updated: 2022-08-11T12:27:23+02:00
 ---
 
 
 # Lecture 01 
-
 - When to Use ML and Course Vision
 	- Intro
 		- more ML product
@@ -38,10 +39,19 @@ GA: G-SFK3F1H705
 		- deploying & testing 
 - Labs 1-3: CNNs, Transformers, PyTorch Lightning
 	- Lab 00: Overview
-	- Lab 01: Deep Neural Networks in PyTorch               
-	- Lab 02a: PyTorch Lightning
-	- Lab 02b: Training a CNN on Synthetic Handwriting Data
-	- Lab 03: Transformers and Paragraphs           
+		- https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022-labs 
+		- code, markdown, site, mirro, youtube, ... all in one jupyter notebook 
+			- from IPython.display import IFrame
+			- IFrame(app_url, width=1024, height=896)			- 
+	- Lab 01: Deep Neural Networks in PyTorch       
+		- ??		- 
+	- Lab 02a: PyTorch Lightning		- 
+	- Lab 02b: Training a CNN on Synthetic Handwriting Data		- 
+	- Lab 03: Transformers and Paragraphs *          
+		- ResnetTransformer
+		- teacher_forward
+		- --precision 16
+		- --limit_train_batches 10	 
 
 
 
