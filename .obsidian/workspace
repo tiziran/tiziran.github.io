@@ -9,18 +9,22 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mind_Map/Optimization/Optimization ML solutions.md",
+            "file": "Code/convert strel-getStructuringElement structuring element.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "ecfcbf112e8e00d5",
+        "id": "309191352073bd24",
         "type": "leaf",
         "state": {
-          "type": "mindmap",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Development_Management_Growth/Notes/workshop.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind_Map/Optimization/Optimization ML solutions.md",
+                "file": "Code/convert strel-getStructuringElement structuring element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mind_Map/Optimization/Optimization ML solutions.md",
+                "file": "Code/convert strel-getStructuringElement structuring element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mind_Map/Optimization/Optimization ML solutions.md"
+                "file": "Code/convert strel-getStructuringElement structuring element.md"
               }
             }
           }
@@ -155,19 +159,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "a45ea6c549bee76e",
   "lastOpenFiles": [
+    "Code/python dll.md",
     "Code/tools.md",
-    "Mind_Map/Optimization/Optimization ML solutions.md",
     "Code/add path.md",
+    "Code/convert.md",
+    "Code/convert strel-getStructuringElement structuring element.md",
+    "Development_Management_Growth/Notes/workshop.md",
+    "Mind_Map/Optimization/Optimization ML solutions.md",
     "Development_Management_Growth/template/template_note.md",
     "Development_Management_Growth/Personal Knowledge Management/Note_taking.md",
-    "Development_Management_Growth/Personal Knowledge Management/CODE.md",
-    "Development_Management_Growth/Notes/note.md",
-    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
-    "Code/python dll.md",
-    "Code/convert strel-getStructuringElement structuring element.md"
+    "Development_Management_Growth/Personal Knowledge Management/CODE.md"
   ]
 }
