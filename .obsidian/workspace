@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Code/convert strel-getStructuringElement structuring element.md",
+            "file": "Development_Management_Growth/Notes/note.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/convert strel-getStructuringElement structuring element.md",
+                "file": "Development_Management_Growth/Notes/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/convert strel-getStructuringElement structuring element.md",
+                "file": "Development_Management_Growth/Notes/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/convert strel-getStructuringElement structuring element.md"
+                "file": "Development_Management_Growth/Notes/note.md"
               }
             }
           }
@@ -163,11 +163,11 @@
   },
   "active": "a45ea6c549bee76e",
   "lastOpenFiles": [
+    "Code/convert strel-getStructuringElement structuring element.md",
     "Code/python dll.md",
     "Code/tools.md",
     "Code/add path.md",
     "Code/convert.md",
-    "Code/convert strel-getStructuringElement structuring element.md",
     "Development_Management_Growth/Notes/workshop.md",
     "Mind_Map/Optimization/Optimization ML solutions.md",
     "Development_Management_Growth/template/template_note.md",
