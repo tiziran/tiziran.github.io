@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Development_Management_Growth/Notes/note.md",
+            "file": "Development_Management_Growth/Notes/workshop.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development_Management_Growth/Notes/note.md",
+                "file": "Development_Management_Growth/Notes/workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development_Management_Growth/Notes/note.md",
+                "file": "Development_Management_Growth/Notes/workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development_Management_Growth/Notes/note.md"
+                "file": "Development_Management_Growth/Notes/workshop.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "a45ea6c549bee76e",
   "lastOpenFiles": [
+    "Development_Management_Growth/Notes/note.md",
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/images.md",
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/a.png",
     "Code/convert strel-getStructuringElement structuring element.md",
     "Code/python dll.md",
     "Code/tools.md",
     "Code/add path.md",
     "Code/convert.md",
     "Development_Management_Growth/Notes/workshop.md",
-    "Mind_Map/Optimization/Optimization ML solutions.md",
-    "Development_Management_Growth/template/template_note.md",
-    "Development_Management_Growth/Personal Knowledge Management/Note_taking.md",
-    "Development_Management_Growth/Personal Knowledge Management/CODE.md"
+    "Mind_Map/Optimization/Optimization ML solutions.md"
   ]
 }
