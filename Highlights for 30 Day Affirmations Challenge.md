@@ -1,6 +1,6 @@
 ---
 created: 2022-08-14T01:25:12+02:00
-updated: 2022-08-14T12:49:48+02:00
+updated: 2022-08-14T13:08:18+02:00
 ---
 - [[daily affirmations (Page 2) 🟡]]
 - [[I Love MyselfI Can Do Anything I Put My Mind ToI Am Getting Better Every DayI Am ImportantI Am Successful In Whatever I DoI Am LovedI Am StrongI Am HopefulI Am Making Things HappenI Persist With ConfidenceI Trust Myself In Making Great DecisionsI Embrace My Fears Fully And CalmlyI Am A Wondeful PersonI Deeply Love And Accept MyselfI Am Able To Solve Problems Creatively (Page 7) 🟡]]
