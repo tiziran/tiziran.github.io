@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "17f29533478d4cd6",
+    "id": "f4ad9d1faf74ec5e",
     "type": "split",
     "children": [
       {
-        "id": "5daa088bd0568021",
+        "id": "1d282e7e565b4081",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Highlights for 30 Day Affirmations Challenge.md",
+            "file": "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "69d75ba924feb1fe",
+    "id": "d35ff97c50e9eb5c",
     "type": "split",
     "children": [
       {
-        "id": "cbdf91b910a50226",
+        "id": "9f8595562e78dde3",
         "type": "tabs",
         "children": [
           {
-            "id": "afc2c059507968b0",
+            "id": "7f01e5647ba3d907",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "9c81ff28d0e46173",
+            "id": "f539f0d51a0e6066",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "d03395bab971d8da",
+            "id": "96bf68c5cd6d3e68",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "e36ad1d747357229",
+    "id": "531966a8a0eea157",
     "type": "split",
     "children": [
       {
-        "id": "974adcb68c5c77ca",
+        "id": "808f42b0c9f7d6f5",
         "type": "tabs",
         "children": [
           {
-            "id": "3934140534ebdb3d",
+            "id": "ed2765298990fdeb",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "c4ae4c15c433971f",
+            "id": "3e73f7fbbf60469d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highlights for 30 Day Affirmations Challenge.md",
+                "file": "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "ec399e078bf7f096",
+            "id": "ee519352b6e170f3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Highlights for 30 Day Affirmations Challenge.md",
+                "file": "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "62570cbbbd61a3d7",
+            "id": "13a9926b4c496ae4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "2007a10abb45ebe7",
+            "id": "c0585a4b2766d5fe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Highlights for 30 Day Affirmations Challenge.md"
+                "file": "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md"
               }
             }
           }
@@ -136,6 +136,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5daa088bd0568021",
-  "lastOpenFiles": []
+  "active": "1d282e7e565b4081",
+  "lastOpenFiles": [
+    "Development_Management_Growth/Notes/note.md",
+    "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
+    "Development_Management_Growth/template/template_Cornell.md",
+    "Development_Management_Growth/Notes/workshop.md",
+    "Development_Management_Growth/Notes/test pdf.md",
+    "Development_Management_Growth/Notes/review.md",
+    "Development_Management_Growth/Notes/2hop.md",
+    "Development_Management_Growth/Notes/Cornell.md"
+  ]
 }
