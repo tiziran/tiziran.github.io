@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
+            "file": "Code/tools.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d2f08c1eef247cfe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Code/add path.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
+                "file": "Code/add path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
+                "file": "Code/add path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md"
+                "file": "Code/add path.md"
               }
             }
           }
@@ -136,15 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d282e7e565b4081",
+  "active": "d2f08c1eef247cfe",
   "lastOpenFiles": [
-    "Development_Management_Growth/Notes/note.md",
-    "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
+    "000_Indexing/020 MOC code.md",
+    "Code/tools.md",
+    "Code/python dll.md",
+    "Code/convert strel-getStructuringElement structuring element.md",
+    "Code/convert.md",
+    "Code/add path.md",
+    "README.md",
+    "Development_Management_Growth/template/template_note.md",
     "Development_Management_Growth/template/template_Cornell.md",
-    "Development_Management_Growth/Notes/workshop.md",
-    "Development_Management_Growth/Notes/test pdf.md",
-    "Development_Management_Growth/Notes/review.md",
-    "Development_Management_Growth/Notes/2hop.md",
-    "Development_Management_Growth/Notes/Cornell.md"
+    "Development_Management_Growth/Personal_Development/The 4-Hour workweek.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-updated: 2022-08-10T22:39:04+02:00
+updated: 2022-08-15T14:03:56+02:00
 created: 2022-08-10T22:32:18+02:00
 tags: i/python
 GA: G-SFK3F1H705
@@ -34,9 +34,9 @@ poetry run jupyter lab
 
 pipenv install requests
 
-pyenv virtualenvs cv-endpoint
+pyenv virtualenvs aaa
 
-pyenv activate cv-endpoint
+pyenv activate aaa
 
 ====================
 
