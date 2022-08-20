@@ -10,7 +10,7 @@ site: https://www.tiziran.com
 project: Tiziran, Farshid
 GA: G-SFK3F1H705
 created: 2022-08-11T11:58:16+02:00
-updated: 2022-08-11T12:27:23+02:00
+updated: 2022-08-20T11:53:09+02:00
 ---
 
 
@@ -54,19 +54,48 @@ updated: 2022-08-11T12:27:23+02:00
 		- --limit_train_batches 10	 
 
 
-
+# Lecture 02
+Lecture 02: Development Infrastructure & Tooling (FSDL 2022)
+- PyTorch Lightning + VS Code + Python
+- data parallelism
+	- distributeddataparallel 
+	- Horovod 
+	- sharded data parallelism
+	- ZeRO-3
+- pipelined model parallelism
+- tensor parallelism
+- MosaicML 
+- FFCV
+- compute
+	- only NVIDIA
+	- use most expensive per-hour machines
+- resource management
+	- kubernetes + kubeflow
+	- AWS SageMaker
+	- Anyscale
+	- Grid.ai
+	- determined.ai
+- experiment management
+	- tensorboard
+	- mlflow tracking
+	- Weights & Biases
+- All in One
+	- AWS SageMaker
+	- Gradient
+	- Domino
 ---
 
 ![[Pasted image 20220809121756.png]]
 ![[Pasted image 20220809123400.png]]
 
 ![[Pasted image 20220809125511.png]]
-# Lecture 02
-- https://www.tiziran.com
-- 
+Lecture 02
+![[Pasted image 20220820102243.png]]
+
+![[Pasted image 20220820102320.png]]
 
 
 
-![[a.png]]
 
+![[Pasted image 20220820115237.png]]
 
