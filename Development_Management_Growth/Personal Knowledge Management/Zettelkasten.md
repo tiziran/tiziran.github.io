@@ -2,6 +2,8 @@
 date: 2022-08-08 
 Tags: i/pkm, Zettelkasten, Personal Knowledge Management, PKM, study, learn,evergreen
 why: management 
+created: 2022-08-24T17:10:05+02:00
+updated: 2022-08-24T17:10:05+02:00
 ---
 
 
@@ -22,7 +24,7 @@ summary, own thoughts
 %%
 
 
-# Permanent Notes
+# Permanent Notes / Evergreen
 
 %% 
 one single idea on a card
@@ -44,7 +46,6 @@ link notes bi-directionally
 
 
 
-# Evergreen
 
 
 

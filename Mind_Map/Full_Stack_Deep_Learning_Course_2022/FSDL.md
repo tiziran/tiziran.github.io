@@ -10,7 +10,7 @@ site: https://www.tiziran.com
 project: Tiziran, Farshid
 GA: G-SFK3F1H705
 created: 2022-08-11T11:58:16+02:00
-updated: 2022-08-20T11:53:09+02:00
+updated: 2022-08-28T14:15:04+02:00
 ---
 
 
@@ -83,6 +83,11 @@ Lecture 02: Development Infrastructure & Tooling (FSDL 2022)
 	- AWS SageMaker
 	- Gradient
 	- Domino
+# Lecture 03
+- testing
+	- help ship faster
+	- 
+- 
 ---
 
 ![[Pasted image 20220809121756.png]]
@@ -97,5 +102,5 @@ Lecture 02
 
 
 
-![[Pasted image 20220820115237.png]]
+
 
