@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
+            "file": "Mind_Map/JavaScript/LinkedIn.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 572.5
   },
   "right": {
     "id": "531966a8a0eea157",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
+                "file": "Mind_Map/JavaScript/LinkedIn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
+                "file": "Mind_Map/JavaScript/LinkedIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md"
+                "file": "Mind_Map/JavaScript/LinkedIn.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "7f01e5647ba3d907",
   "lastOpenFiles": [
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
     "Development_Management_Growth/Personal Knowledge Management/Zettelkasten.md",
     "Development_Management_Growth/Personal Knowledge Management/Untitled.md",
     "Development_Management_Growth/template/template_note.md",
     "Development_Management_Growth/Personal Knowledge Management/PKM.md",
     "Development_Management_Growth/Personal_Development/system atomic habits.md",
-    "Development_Management_Growth/Personal_Development/Personal_Development_Plan.md",
+    "Mind_Map/Personal_Development_Plan.md",
     "Code/shortcut.md",
     "Code/add path.md",
-    "Code/convert.md",
-    "Code/python dll.md"
+    "Code/convert.md"
   ]
 }

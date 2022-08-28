@@ -10,7 +10,7 @@ site: https://www.tiziran.com
 project: Tiziran, Farshid
 GA: G-SFK3F1H705
 created: 2022-08-11T11:58:16+02:00
-updated: 2022-08-28T14:15:04+02:00
+updated: 2022-08-28T19:53:58+02:00
 ---
 
 
@@ -86,8 +86,43 @@ Lecture 02: Development Infrastructure & Tooling (FSDL 2022)
 # Lecture 03
 - testing
 	- help ship faster
+	- pytest: separate suites, shared resources, parametrized
+	- doctests
+	- notebook: assert, nbformat
+	- *codecov*: checked or covered
+	- *black*: standard tool
+	- *flake8*: for python style 
+	- *shellcheck* :
+	- github actions
+	- pre-commit	 
+- testing ML
+	- smoke tests
+		- expectations testing on data
+			- tools: great_expectations
+			- memorization test: faster machines, reduce dataset size, turn off regularization, reduce model size, remove expensive components
+	- data flywheel
+	- TDD: test-driven development is a paradigm for testing
+		- 1. write test
+		- 2. test fails
+		- 3. write code
+		- 4. test passes
+		- 5. refactor
+	- gradient descent is TDD
+	- ML test score 
+	- troubleshooting models
+		- shape error
+		- out of memory 
+		- numerical errors
+	- solve with scale
+		- overfitting
+			- scale up data
+		- underfitting
+			- scale up model
+		- distribution shift
+			- scale up both
+		- can't afford scale
+			- finetune a model trained at scale
 	- 
-- 
 ---
 
 ![[Pasted image 20220809121756.png]]
