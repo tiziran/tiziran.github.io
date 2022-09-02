@@ -1,6 +1,6 @@
 ---
 created: 2022-08-28T20:25:16+02:00
-updated: 2022-08-28T20:27:08+02:00
+updated: 2022-08-28T20:37:25+02:00
 ---
 #JS 
 - Introduction
@@ -11,4 +11,5 @@ updated: 2022-08-28T20:27:08+02:00
 			- Prettier
 		- browser console
 		- Node.js
+	- npm install
 	- 
