@@ -3,7 +3,7 @@ date: 2022-08-08
 Tags: i/pkm, Zettelkasten, Personal Knowledge Management, PKM, study, learn,evergreen
 why: management 
 created: 2022-08-24T17:10:05+02:00
-updated: 2022-09-01T14:30:03+02:00
+updated: 2022-09-05T09:33:16+02:00
 ---
 
 
@@ -37,6 +37,15 @@ small notes
 %%
 create based on other notes based on specific projects
 
+
+# MOC
+map of content 
+
+introduction/definition
+literature
+topics
+summary 
+reference
 
 # Slip-box
 %% 

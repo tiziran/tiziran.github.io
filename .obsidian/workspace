@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Code/create Mat.md",
+            "file": "Development_Management_Growth/template/template_MOC.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/create Mat.md",
+                "file": "Development_Management_Growth/template/template_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/create Mat.md",
+                "file": "Development_Management_Growth/template/template_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/create Mat.md"
+                "file": "Development_Management_Growth/template/template_MOC.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "7f01e5647ba3d907",
   "lastOpenFiles": [
-    "Code/static_cast.md",
-    "Code/converting code.md",
-    "Code/using visual studio code.md",
-    "Code/tools.md",
-    "Code/shortcut.md",
-    "Mind_Map/IFA 2022.md",
-    "Mind_Map/JavaScript/LinkedIn.md",
-    "Code/add path.md",
     "Development_Management_Growth/Personal Knowledge Management/Zettelkasten.md",
-    "Code/np.savetxt.md"
+    "Development_Management_Growth/template/template_MOC.md",
+    "Development_Management_Growth/template/template_note.md",
+    "Development_Management_Growth/Personal Knowledge Management/Untitled.md",
+    "Development_Management_Growth/Personal Knowledge Management/Productive.md",
+    "Development_Management_Growth/Personal Knowledge Management/PKM.md",
+    "Development_Management_Growth/Personal Knowledge Management/PARA.md",
+    "Development_Management_Growth/Personal Knowledge Management/Note_taking.md",
+    "Development_Management_Growth/Personal Knowledge Management/CODE.md",
+    "Code/create Mat.md"
   ]
 }
