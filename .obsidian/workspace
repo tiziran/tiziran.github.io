@@ -7,12 +7,8 @@
         "id": "7f01e5647ba3d907",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -153,6 +145,7 @@
   },
   "active": "7f01e5647ba3d907",
   "lastOpenFiles": [
+    "index.md",
     "README.md",
     "Development_Management_Growth/Notes/review.md",
     "Development_Management_Growth/Notes/note.md",
@@ -161,7 +154,6 @@
     "Reading notes/pirahansiahSimultaneousLocalizationMapping2013.md",
     "pirahansiah2D3DMap2012.md",
     "Reading notes/Untitled.md",
-    "farshidpirahansiahCHAPTERAugmentedOptical2017.md",
-    "Code/threshold.md"
+    "farshidpirahansiahCHAPTERAugmentedOptical2017.md"
   ]
 }
