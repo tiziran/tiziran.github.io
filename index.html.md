@@ -1,7 +1,3 @@
----
-created: 2022-09-06T14:58:49+02:00
-updated: 2022-09-06T15:00:19+02:00
----
 # https://www.tiziran.com 
 
 Update Sep 2022 by Farshid PirahanSiah  

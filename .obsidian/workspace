@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading notes/pirahansiah2D3DMap2012.md",
+            "file": "index.html.md",
             "mode": "source",
             "source": false
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/pirahansiah2D3DMap2012.md",
+                "file": "index.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading notes/pirahansiah2D3DMap2012.md",
+                "file": "index.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading notes/pirahansiah2D3DMap2012.md"
+                "file": "index.html.md"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "7f01e5647ba3d907",
   "lastOpenFiles": [
-    "Reading notes/pirahansiahSimultaneousLocalizationMapping2013.md",
+    "README.md",
+    "Development_Management_Growth/Notes/review.md",
+    "Development_Management_Growth/Notes/note.md",
+    "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
     "Reading notes/pirahansiah2D3DMap2012.md",
+    "Reading notes/pirahansiahSimultaneousLocalizationMapping2013.md",
     "pirahansiah2D3DMap2012.md",
     "Reading notes/Untitled.md",
-    "README.md",
     "farshidpirahansiahCHAPTERAugmentedOptical2017.md",
-    "Code/threshold.md",
-    "Code/static_cast.md",
-    "Code/shortcut.md",
-    "Code/remove background or minimum form image.md"
+    "Code/threshold.md"
   ]
 }
