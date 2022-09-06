@@ -1,3 +1,7 @@
+---
+created: 2022-09-06T15:07:07+02:00
+updated: 2022-09-06T15:08:06+02:00
+---
 -   [010_Guide](000_Indexing/010_Guide.md)
 -   [020 MOC code](000_Indexing/020%20MOC%20code.md)
 -   [020_index_PKM](000_Indexing/020_index_PKM.md)

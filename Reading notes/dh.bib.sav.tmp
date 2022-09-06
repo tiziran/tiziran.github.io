@@ -1582,19 +1582,4 @@ increasing the number of images up to 80 percent in the training phase.},
   yearfiled = {2018},
   author    = {Farshid PIRAHANSIAH ; Hock Woon Hon ; Nik Ahmad Akram Bin NIK ZULKEPELI},
   note      = {note},
-  title     = {System and Method for providing advertisement contents based on facial analysis},
-  comment   = {comment},
-  groups    = {Farshid PirahanSiah},
-  ranking   = {rank5},
-}
-
-@Comment{jabref-meta: databaseType:bibtex;}
-
-@Comment{jabref-meta: grouping:
-0 AllEntriesGroup:;
-1 StaticGroup:Farshid PirahanSiah\;2\;1\;0x00ff00ff\;DH\;Farshid PirahanSiah My Papers\;;
-1 StaticGroup:Markings\;2\;0\;\;\;\;;
-1 StaticGroup:DRL\;0\;1\;0x0000ffff\;lightbulb-on\;Farshid PirahanSiah DRL Book\;;
-2 StaticGroup:Patent\;0\;0\;0x664db3ff\;\;Patent DRL\;;
-1 StaticGroup:Book\;0\;0\;0xcccc33ff\;\;\;;
-}
+  title     = {System and Method for providing advertisement contents based on facial a

@@ -7,8 +7,12 @@
         "id": "7f01e5647ba3d907",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Reading notes/@PIRAHANSIAH2020.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -55,20 +59,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "6ec29702fe1cc212",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e359179befe4e2c8",
-            "type": "leaf",
-            "state": {
-              "type": "zdc-debug",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -96,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reading notes/@PIRAHANSIAH2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reading notes/@PIRAHANSIAH2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reading notes/@PIRAHANSIAH2020.md"
+              }
             }
           }
         ]
@@ -145,15 +139,15 @@
   },
   "active": "7f01e5647ba3d907",
   "lastOpenFiles": [
-    "index.md",
-    "README.md",
-    "Development_Management_Growth/Notes/review.md",
-    "Development_Management_Growth/Notes/note.md",
-    "Development_Management_Growth/Notes/Highlights for 30 Day Affirmations Challenge.md",
+    "Reading notes/@PIRAHANSIAH2021.md",
+    "Reading notes/@Ghesu2018.md",
+    "Reading notes/@PIRAHANSIAH2020.md",
+    "Reading notes/@PirahanSiah2010.md",
     "Reading notes/pirahansiah2D3DMap2012.md",
     "Reading notes/pirahansiahSimultaneousLocalizationMapping2013.md",
-    "pirahansiah2D3DMap2012.md",
-    "Reading notes/Untitled.md",
-    "farshidpirahansiahCHAPTERAugmentedOptical2017.md"
+    "Reading notes/@Montemerlo2002.md",
+    "Development_Management_Growth/Notes/1.png",
+    "Development_Management_Growth/Notes/activationFunction.png",
+    "index.md"
   ]
 }
