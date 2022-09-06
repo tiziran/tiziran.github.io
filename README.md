@@ -1,13 +1,13 @@
 ---
 GA: G-SFK3F1H705
 created: 2022-08-15T14:01:45+02:00
-updated: 2022-08-15T14:01:45+02:00
+updated: 2022-09-06T14:32:08+02:00
 ---
 
 
 # https://www.tiziran.com 
 
-Update August 2022 by Farshid PirahanSiah  
+Update Sep 2022 by Farshid PirahanSiah  
 
 #Machine_Learning_Specialization #tiziran #FarshidPirahanSiah 
 

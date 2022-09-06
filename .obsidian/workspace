@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Code/threshold.md",
+            "file": "Reading notes/pirahansiah2D3DMap2012.md",
             "mode": "source",
             "source": false
           }
@@ -59,6 +59,20 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "6ec29702fe1cc212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e359179befe4e2c8",
+            "type": "leaf",
+            "state": {
+              "type": "zdc-debug",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/threshold.md",
+                "file": "Reading notes/pirahansiah2D3DMap2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/threshold.md",
+                "file": "Reading notes/pirahansiah2D3DMap2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/threshold.md"
+                "file": "Reading notes/pirahansiah2D3DMap2012.md"
               }
             }
           }
@@ -139,15 +153,15 @@
   },
   "active": "7f01e5647ba3d907",
   "lastOpenFiles": [
-    "Code/meshgrid subpixle.md",
-    "Code/findContours.md",
-    "Code/time.md",
-    "Code/remove background or minimum form image.md",
-    "Code/convert strel-getStructuringElement structuring element.md",
-    "Code/np.savetxt.md",
-    "Development_Management_Growth/template/template_MOC.md",
-    "Development_Management_Growth/Personal Knowledge Management/Zettelkasten.md",
-    "Development_Management_Growth/template/template_note.md",
-    "Development_Management_Growth/Personal Knowledge Management/Untitled.md"
+    "Reading notes/pirahansiahSimultaneousLocalizationMapping2013.md",
+    "Reading notes/pirahansiah2D3DMap2012.md",
+    "pirahansiah2D3DMap2012.md",
+    "Reading notes/Untitled.md",
+    "README.md",
+    "farshidpirahansiahCHAPTERAugmentedOptical2017.md",
+    "Code/threshold.md",
+    "Code/static_cast.md",
+    "Code/shortcut.md",
+    "Code/remove background or minimum form image.md"
   ]
 }
