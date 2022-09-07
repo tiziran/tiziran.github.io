@@ -9,8 +9,12 @@ description: data augmentation
 site: https://www.tiziran.com 
 project: Tiziran, Farshid
 GA: G-SFK3F1H705
+created: 2022-09-07T14:40:06+02:00
+updated: 2022-09-07T14:40:06+02:00
 ---
 top: [[010_Guide]]
+
+https://opencv.org/syllabus/cv1-syllabus.pdf
 
 steps
 	parts detection

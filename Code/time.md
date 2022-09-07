@@ -1,5 +1,5 @@
 ---
-updated: 2022-09-05T16:26:52+02:00
+updated: 2022-09-07T15:31:27+02:00
 created: 2022-08-10T22:33:37+02:00
 tags: i/convert, i/python, i/c , i/matlab
 GA: G-SFK3F1H705
@@ -23,6 +23,7 @@ time = (e2 - e1)/ cv2.getTickFrequency()
 C++:
 ```cpp
 // OpenCV
+int64 t0 = cv::getTickCount();
 #incluse  <opencv.hpp>
 	double t = (double)getTickCount(); 
 	// do something ... 
