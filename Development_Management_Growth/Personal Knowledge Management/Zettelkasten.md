@@ -3,7 +3,7 @@ date: 2022-08-08
 Tags: i/pkm, Zettelkasten, Personal Knowledge Management, PKM, study, learn,evergreen
 why: management 
 created: 2022-08-24T17:10:05+02:00
-updated: 2022-09-05T09:33:16+02:00
+updated: 2022-09-07T11:38:05+02:00
 ---
 
 
@@ -46,7 +46,7 @@ literature
 topics
 summary 
 reference
-
+من نقشه های محتوایی را هم بخش بندی کرده ام و شامل بخشهای خلاصه, مقدمه , تاریخچه , شرح , مقایسه , نتایج , نتیجه گیری - می شود
 # Slip-box
 %% 
 ask questions
