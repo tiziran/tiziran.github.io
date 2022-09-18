@@ -10,8 +10,9 @@ site: https://www.tiziran.com
 project: Tiziran, Farshid
 GA: G-SFK3F1H705
 created: 2022-08-11T11:58:16+02:00
-updated: 2022-08-28T19:53:58+02:00
+updated: 2022-09-18T23:19:42+02:00
 ---
+
 
 
 # Lecture 01 
@@ -122,7 +123,171 @@ Lecture 02: Development Infrastructure & Tooling (FSDL 2022)
 			- scale up both
 		- can't afford scale
 			- finetune a model trained at scale
-	- 
+# Lecture 03 Lab
+# Lecture 04: Data Management (FSDL 2022)
+- fixing/adding/augmenting data: keep it simple
+- data sources
+	- filesystem: local disk speeds: NVME M.2 SSD, latency: nice visualization - 
+	- object storage: usually binary object can versioning, redundancy "S3", 
+	- database: persistent, fast, scalable, in RAM, object-store URLs, - postgres, SQLite
+		- data warehouse: OLAP, OLTP, ETL 
+		- data lake: unstructured: ELT, 
+- SQL and DataFrames
+	- SQL: structured
+	- Pandas is DataFrames: DASK parallelize pandas, RAPIDS pandas on GPUs
+- Airflow: specify the DAG of tasks using python
+	- Prefect
+	- Dagster
+- feature stores
+	- tecton.ai
+	- FEAST
+	- Featureform
+- Hu
+- Activeloop
+- Labeling 
+	- self-supervised learning
+	- image data augmentation
+	- HIVE
+	- scale.ai
+	- labelbox
+	- label studio **
+	- diffgram
+	- aquarium and scale nucleus
+	- weak supervision : snorkel.ai - rubrix
+- data versioning: level 1 - level 3: DVC 
+- privacy 
+# Lecture 04 Lab
+# Lecture 05: Deployment (FSDL 2022)
+- step 1
+	- prototype: basic UI: Gradio & Streamlit - cloud URL
+	- model-in-service
+	- batch prediction: dagster, airflow, metaflow,...
+	- model-as-service: ** 
+	- REST APIs: GRPC, GraphQL 
+- step 2
+	- Dependency management: 
+		- constrain the dependencies : ONNX, 
+		- containers: Docker, 
+			- spin up a container for each task
+			- tools: Cog, BentoML, TRUSS
+	- performance
+		- concurrency: thread tuning
+		- model distillation
+		- quantization: tools: Optimum, built in functions, before training
+		- caching: functools
+			- ```  
+			  @cache
+			  def factorial(n):
+				  return n * factorial(n-1) if n else 1 ```
+		- batching
+		- sharing the GPU: RAY SERVE, TF SERVING, 
+		- Horizontal scaling
+			- container orchestration
+				- kubernetes 
+					- seldon core
+					- kubeflow serving
+				- deploying code as serverless functions
+					- AWS Lambda
+					- Google cloud functions
+					- azure functions
+			- Rollouts
+			- managed options
+		- step 3
+			- edge deployment
+			- TensorRT, CoreML, ML kit, PyTorch mobile, TFLite, TF.js, Apache TVM
+			- start up: MLIR, Tiny ML, Modular
+			- Efficient
+				- quantization
+				- model distillation
+				- mobile-friendly model
+					- mobileNets
+				- mindsets
+					- choose for target device
+					- tuning				
+# Lecture 05 Lab
+# # Lecture 06: Continual Learning (FSDL 2022)
+- what metrics to monitor
+	- Outcomes and feedback from users
+	- Model performance metrics
+	- Proxy metrics
+	- Data quality testing
+		- accuracy
+		- completeness
+		- consistency
+		- timeliness
+		- validity
+		- integrity
+	- Distribution drift
+		- type
+			- instantaneous drift like
+			- gradual drift
+			- periodic drifts
+			- temporary drift
+		- measure
+			- reference window
+		- metric
+			- 1D : KL , KS
+		- dealing with high-dimensional data
+			- *projections*
+	- system metrics 
+- how to tell if those metrics are "bad"
+	- KS-Test
+	- good
+		- 1 fixed rule
+		- 2 specified range
+		- 3 predicted range
+		- 4 unsupervised detection		- 
+- tools for monitoring
+	- system monitoring tools
+		- datadog
+		- honeycomb.io
+		- NewRelic
+		- amazon cloudwatch
+	- OSS ML monitoring: evidently AI, why logs
+	- 1 logging
+		- profiling
+		- sampling
+	- 2 curation
+		- L1: just sample randomly
+		- L2: stratified sampling
+		- L3: curate "interesting" data
+		- manually
+			- similarity-based curation
+			- projection-based curation
+		- automatically curating data using active learning
+			- scoring function
+				- most uncertain
+				- highest predicted loss
+				- most different from labels
+				- most representative
+				- big impact on training
+			- tools: scale nucleus, data-centric ML tools
+	- 3 retraining triggers
+		- based on performance 
+		- online learning
+	- 4 dataset formation
+		- 1: train on all available data
+		- 2: sliding window
+		- 3: online batch selection
+		- 4: continual fine-tuning
+	- 5: offline testing
+		- dynamic
+		- expectation tests
+	- 6: online testing
+		- shadow mode, AB test, roll out gradually, roll back, ...
+- trying it all 
+# Lecture 06 Lab
+
+# Lecture 07
+# Lecture 07 Lab
+# Lecture 08
+# Lecture 08 Lab
+# Lecture 09
+# Lecture 09 Lab
+# Lecture 10
+# Lecture 10 Lab
+
+
 ---
 
 ![[Pasted image 20220809121756.png]]
@@ -133,6 +298,21 @@ Lecture 02
 ![[Pasted image 20220820102243.png]]
 
 ![[Pasted image 20220820102320.png]]
+%% 
+lecture 4
+the | or -P4 is using for parallelism in linux
+%% 
+![[Pasted image 20220916231558.png]]
+![[Pasted image 20220917091930.png]]
+
+![[Pasted image 20220917111701.png]]
+
+![[Pasted image 20220917161543.png]]
+
+![[Pasted image 20220918231910.png]]
+
+
+
 
 
 

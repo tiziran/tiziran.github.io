@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Code/time.md",
+            "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/time.md",
+                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/time.md",
+                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/time.md"
+                "file": "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "2696a0ac3f960364",
   "lastOpenFiles": [
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL_mindMap.md",
+    "Mind_Map/Full_Stack_Deep_Learning_Course_2022/FSDL.md",
+    "Code/time.md",
     "Code/add path.md",
     "Code/convert.md",
     "Code/converting code.md",
     "Code/create Mat.md",
     "Code/findContours.md",
     "Code/meshgrid subpixle.md",
-    "Code/np.savetxt.md",
-    "Code/python dll.md",
-    "Code/shortcut.md",
-    "Code/using visual studio code.md"
+    "Code/np.savetxt.md"
   ]
 }
