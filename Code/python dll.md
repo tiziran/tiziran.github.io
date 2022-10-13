@@ -1,5 +1,5 @@
 ---
-updated: 2022-08-10T22:39:16+02:00
+updated: 2022-10-10T10:39:12+02:00
 created: 2022-08-10T22:34:27+02:00
 tags: i/python
 status: need to complete and test 
