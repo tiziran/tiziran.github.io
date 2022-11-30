@@ -1,5 +1,5 @@
 ---
-updated: 2022-09-06T14:27:10+02:00
+updated: 2022-11-30T15:24:40+01:00
 created: 2022-08-10T22:33:37+02:00
 tags: i/convert, i/python, i/c , i/matlab
 GA: G-SFK3F1H705
@@ -38,28 +38,6 @@ Matlab:
 
 ```
 
-{@[[]]}
-@PirahanSiah2020
-
-{{PirahanSiah2020}}
-
-
-[@Pinto2008]
-
-[@{{PirahanSiah2020}}]
-
-
-dfgsdfg
-fds
-
-sdfgdfsg
-
-
-sadfasf
-asdfasdfasdf
-sadfsafaafsd
-
-@@{{}}
 
 
 
