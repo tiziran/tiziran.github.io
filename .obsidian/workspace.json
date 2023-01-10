@@ -145,6 +145,23 @@
     "direction": "horizontal",
     "width": 200
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "auto-moc:AutoMOC": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
+    }
+  },
   "active": "82a7c48ec7552faf",
   "lastOpenFiles": [
     "Code/tools.md",
